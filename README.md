@@ -12,7 +12,6 @@ Please See below link <br>
 http://pinout.xyz/
 
 
-
 Usage
 ==
 <pre>
@@ -41,6 +40,13 @@ $date > /dev/ttyAMA0
 </code>
 </pre>
 
+
+screenshot
+==
+Setting before
+![before](./img/screen_before.png)
+Setting after
+![before](./img/screen_after.png)
 
 ETC
 ==
