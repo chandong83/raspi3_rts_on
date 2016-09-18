@@ -1,7 +1,16 @@
 # raspi3_rts_on
+
+
+
 Hardware RTS Enable for Raspberry Pi 3<br>
-This code was referenced by below the links.
+for The RS485
+This code was referenced by below the link.
 http://elinux.org/RPi_GPIO_Code_Samples#Direct_register_access
+
+RTS is BCM17 Port <br>
+Please See below link <br>
+http://pinout.xyz/
+
 
 
 Usage
