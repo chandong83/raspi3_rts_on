@@ -3,8 +3,8 @@
 
 
 Hardware RTS Enable for Raspberry Pi 3<br>
-for The RS485
-This code was referenced by below the link.
+for The RS485<br>
+This code was referenced by below the link.<br>
 http://elinux.org/RPi_GPIO_Code_Samples#Direct_register_access
 
 RTS is BCM17 Port <br>
@@ -43,9 +43,12 @@ $date > /dev/ttyAMA0
 
 screenshot
 ==
-Setting before
+Setting Before
+--
 ![before](./img/screen_before.png)
-Setting after
+
+Setting After
+--
 ![before](./img/screen_after.png)
 
 ETC
